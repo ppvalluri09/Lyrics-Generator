@@ -4,7 +4,7 @@ This model was trained on Tesla GPU for 100 Epochs on a song lyrics dataset conp
 
 ## Model
 
-Trained model can be found at this link <a href="https://drive.google.com/file/d/1kKQNRB-LskdkMU3Vof1KgUisIT1xGbSz/view?usp=sharing">Lyric Generator</a>
+Trained model can be found at this link <a href="https://drive.google.com/file/d/1kKQNRB-LskdkMU3Vof1KgUisIT1xGbSz/view?usp=sharing">Lyric Generator (<i>It's a 1Gb uncompressed h5 file</i>)</a>
 
 ## Output
 
